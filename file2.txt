@@ -1,1 +1,2 @@
 "Initial content for File 2" 
+"Feature 1 addition to File 2" 
