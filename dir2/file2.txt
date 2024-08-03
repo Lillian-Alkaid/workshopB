@@ -1,0 +1,6 @@
+"Initial content for File 2" 
+<<<<<<< HEAD
+"Feature 1 addition to File 2" 
+=======
+"Feature 2 addition to File 2" 
+>>>>>>> feature2
