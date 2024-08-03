@@ -1,6 +1,1 @@
-"Hellow,Word!" 
- HEAD
-"Feature 1 addition to File 1" 
-
-"Feature 2 addition to File 1" 
- feature2
+"Your content here" 
